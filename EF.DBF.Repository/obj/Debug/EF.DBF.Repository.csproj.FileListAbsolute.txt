@@ -1,0 +1,12 @@
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EF.DBF.Repository.dll.config
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EF.DBF.Repository.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EF.DBF.Repository.pdb
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EntityFramework.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EntityFramework.xml
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\obj\Debug\EF.DBF.Repository.csprojAssemblyReference.cache
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\obj\Debug\EF.DBF.Repository.csproj.CoreCompileInputs.cache
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\obj\Debug\EF.DBF.Repository.csproj.CopyComplete
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\obj\Debug\EF.DBF.Repository.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Repository\obj\Debug\EF.DBF.Repository.pdb

@@ -1,0 +1,12 @@
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EF.DBF.Model.dll.config
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EF.DBF.Model.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EF.DBF.Model.pdb
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EntityFramework.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EntityFramework.xml
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\obj\Debug\EF.DBF.Model.csprojAssemblyReference.cache
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\obj\Debug\EF.DBF.Model.csproj.CoreCompileInputs.cache
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\obj\Debug\EF.DBF.Model.csproj.CopyComplete
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\obj\Debug\EF.DBF.Model.dll
+F:\iti\EF\lab 1\EF.DataBaseFirstModel\EF.DBF.Model\obj\Debug\EF.DBF.Model.pdb
